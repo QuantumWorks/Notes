@@ -1,6 +1,9 @@
 Notes
 =====
 
+				 this->Hide();
+				 Application::Exit();
+
 Private Notes Do Not Edit OK!
 
 

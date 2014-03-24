@@ -6,7 +6,6 @@ Notes
 
 Private Notes Do Not Edit OK!
 
-
 			
 			// This will check text box!
 			 if (textBox3->Text == "QuantumWorks")
@@ -15,11 +14,8 @@ Private Notes Do Not Edit OK!
 				 myForm1->Show();
 			 }
 			 
-			 
-			 
-			 
 			 //main stuff to create windows form!
-			 
+=================================================================================			 
 #include "MyForm.h"
 
 using namespace System;
@@ -35,4 +31,14 @@ void main(array<String^>^ arg) {
 }  
 
 
-======
+================================================================
+				 if (textBox1->Text == "QuantumWorks")
+				 {
+					 this->Hide();
+					 MyForm1^ myForm1 = gcnew MyForm1();
+					 myForm1->Show();
+				 }
+				 
+				 
+				 			MyForm2^ myForm2 = gcnew MyForm2();
+			 myForm2->Show();

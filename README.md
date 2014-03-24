@@ -18,16 +18,9 @@ Private Notes Do Not Edit OK!
 			 
 			 
 			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
 			 //main stuff to create windows form!
 			 
-			 #include "MyForm.h"
+#include "MyForm.h"
 
 using namespace System;
 using namespace System::Windows::Forms;
@@ -37,6 +30,9 @@ void main(array<String^>^ arg) {
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
 
-	TestForms::MyForm form;
+	Tools::MyForm form;
 	Application::Run(%form);
 }  
+
+
+======

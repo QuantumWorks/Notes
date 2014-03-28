@@ -8,6 +8,7 @@ Servers:
 6. Capture The Flag (CTF)
 7. Spleef
 8. Spleeg
+9. Lava Run
 
 Multiple Servers needed
 ========================

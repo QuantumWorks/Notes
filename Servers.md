@@ -37,3 +37,7 @@ Spleeg:
 ========
       1 Server Lobby
       2 - 5 Servers Dual More worlds can be used
+Lava Run:
+========
+      1 Server Lobby
+      1 - 1 Servers Dual 
